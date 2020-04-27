@@ -12,9 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/ios-marketing.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Manga Reader - My Manga Viewer                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Manga Reader - My Manga Viewer app provides users with unlimited access to a variety of the hottest manga emerging! Manga Reader provides users with collection of over thousands of manga ranging from Adventure, Action, Drama, Fantasy and many more. Discover the world of Manga!
-
-We dedicate to provide the most comfortable reading experience on your mobile device. It’s updated every day and easy to use with the following features.
+app_description                           : Manga Reader - My Manga Viewer app provides users with unlimited access to a variety of the hottest manga emerging! Manga Reader provides users with collection of over thousands of manga ranging from Adventure, Action, Drama, Fantasy and many more. Discover the world of Manga!\n\nWe dedicate to provide the most comfortable reading experience on your mobile device. It’s updated every day and easy to use with the following features.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
