@@ -59,7 +59,7 @@ features                                  :
     fontawesome_icon_name                 : address-card
 
   - title                                 : Privacy & Term of service
-    description                           : <a href="https://manga-viewer.github.io/docs/privacy">Privacy</a><br><a href="https://manga-viewer.github.io/docs/term">Term of service</a>
+    description                           : <a href="https://manga-viewer.github.io/Privacy-Policy/">Privacy Policy</a><br><a href="https://manga-viewer.github.io/Terms-of-Service/">Terms of Service</a>
     fontawesome_icon_name                 : user-shield
 
 
