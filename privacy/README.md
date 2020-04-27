@@ -15,7 +15,7 @@ We do not use cookies.
 We may provide links to our website or third party websites. Our Privacy Policy will have no effect on any third party websites privacy policy or their usage of personal information collected. Our Privacy Policy as expressed herein does not apply to other parties, and we do not dictate the collection or usage of information by them. We do not take part in the operation of third party advertisers or websites.
 
 ### 5. Amendments.
-We may amend our privacy policy from time to time by posting the amended Policy on our website, without directly informing our users. Therefore we encourage our users to review this policy frequently. N2GU reserves all rights and interpretation to the Policy and its amendments.
+We may amend our privacy policy from time to time by posting the amended Policy on our website, without directly informing our users. Therefore we encourage our users to review this policy frequently. TEUK team reserves all rights and interpretation to the Policy and its amendments.
 
 ### 6.Contact Us
 If there are any questions regarding this privacy policy you may contact us using the information below.
