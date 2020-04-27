@@ -1,0 +1,123 @@
+#page title
+page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+
+# App Info
+ios_app_id                                : 1507949228                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+
+appstore_link                             : https://apps.apple.com/us/app/1507949228  # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+playstore_link                            :                                           # Enter Google Play Store URL.
+presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+                                                                                      # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
+
+app_icon                                  : assets/ios-marketing.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : Manga Reader - My Manga Viewer                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : Manga Reader - My Manga Viewer app provides users with unlimited access to a variety of the hottest manga emerging! Manga Reader provides users with collection of over thousands of manga ranging from Adventure, Action, Drama, Fantasy and many more. Discover the world of Manga!
+
+We dedicate to provide the most comfortable reading experience on your mobile device. It’s updated every day and easy to use with the following features.
+
+enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
+
+
+
+# Information About Yourself
+your_name                                 : PQ                                
+your_link                                 : https://manga-viewer.github.io/
+your_city                                 : Ha Noi                                
+email_address                             : 
+facebook_username                         :                                           
+instagram_username                        : 
+twitter_username                          : 
+github_username                           : 
+youtube_username                          :
+
+
+
+# Feature List                            Edit, add or remove features to be presented.
+features                                  :
+
+  - title                                 : All manga
+    description                           : On My Manga are free to read.
+    fontawesome_icon_name                 : location-arrow
+
+  - title                                 : Access
+    description                           : To the world’s biggest manga library from the most popular English manga sources.
+    fontawesome_icon_name                 : calendar-check
+
+  - title                                 : Regular updates
+    description                           : Whenever new manga or new chapters are released.
+    fontawesome_icon_name                 : magic
+
+  - title                                 : #More thousands of manga from 10+ sources, in 8 languages
+    description                           : #
+    fontawesome_icon_name                 : #link
+  
+  - title                                 : More manga with categories
+    description                           : Action,  Drama, Horror, Magic,...
+    fontawesome_icon_name                 : star
+
+  - title                                 : Contact
+    description                           : 'Email: <a href="mailto:thuteuk97@gmail.com">thuteuk97@gmail.com</a>'
+    fontawesome_icon_name                 : address-card
+
+  - title                                 : Privacy & Term of service
+    description                           : <a href="https://manga-viewer.github.io/docs/privacy">Privacy</a><br><a href="https://manga-viewer.github.io/docs/term">Term of service</a>
+    fontawesome_icon_name                 : user-shield
+
+
+
+# Theme Settings
+topbar_color                              : "#000000"
+topbar_transparency                       : 0.1
+topbar_title_color                        : "#ffffff"
+
+cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_overlay_color                       : "#363b3d"
+cover_overlay_transparency                : 0.8
+
+device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+
+body_background_color                     : "ffffff"
+
+link_color                                : "#1d63ea"
+
+app_title_color                           : "#ffffff"
+app_price_color                           : "#ffffff"
+app_description_color                     : "#ffffff"
+
+feature_title_color                       : "#000000"
+feature_text_color                        : "#666666"
+
+feature_icons_foreground_color            : "#1d63ea"
+feature_icons_background_color            : "#e6e6e6"
+
+social_icons_foreground_color             : "#666666"
+social_icons_background_color             : "#e6e6e6"
+
+footer_text_color                         : "#666666"
+
+
+
+
+
+
+
+
+
+
+
+
+
+####################################################
+### Jekyll Configuration. No need to touch this. ###
+####################################################
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :compressed # You might prefer to minify using :compressed
+
+# Exclude these files from your production _site
+exclude:
+  - LICENSE
+  - README.md
+  - CNAME
